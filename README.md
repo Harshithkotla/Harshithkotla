@@ -1,51 +1,18 @@
-## 👋 About Me
+# 💫 About Me:
+Hi 👋 I’m Harshith, a Frontend-focused Computer Science student<br>who enjoys building clean, responsive, and user-friendly web interfaces.<br>I like turning ideas into real-world web projects and continuously improving my skills through hands-on learning.<br>🔭 I’m currently working on  <br>Frontend web projects using HTML, CSS, JavaScript, and React, including portfolio websites and utility-based web apps.<br><br>👯 I’m looking to collaborate on  <br>Beginner-to-intermediate frontend projects, open-source contributions, and UI-focused web applications.<br><br>🤝 I’m looking for help with  <br>Advanced JavaScript concepts, React best practices, and real-world project structure.<br><br>🌱 I’m currently learning  <br>JavaScript (advanced), React.js, Git/GitHub, and modern UI/UX principles.<br><br>💬 Ask me about  <br>HTML, CSS, JavaScript basics, responsive design, GitHub profiles, and student tech projects.<br><br>⚡ Fun fact  <br>I enjoy simplifying complex problems into clean UI designs—and I prefer calm, distraction-free workflows.<br>🧰 Tech Stack<br><br>Frontend<br>🟦 HTML5 🟪 CSS3 🟨 JavaScript <br><br>Tools & Platforms<br>🐙 Git 🐱 GitHub 🖥️ VS Code 🌐 Chrome DevTools<br><br>Design Basics<br>🎨 UI/UX fundamentals • Responsive layouts • Clean typography<br><br><br>📌 Career Goal<br>To grow as a Frontend Web Developer, contribute to real-world products, <br>and build interfaces that are both functional and visually polished.
 
-Hi, I’m **Harshith**, a **Frontend-focused Computer Science student** passionate about building **clean, responsive, and user-friendly web interfaces**.  
-I enjoy turning ideas into real-world projects and improving continuously through hands-on development.
 
-- 🔭 **Currently working on:** Frontend projects using **HTML, CSS, JavaScript, React**
-- 🌱 **Currently learning:** Advanced JavaScript, React.js, Git/GitHub, UI/UX fundamentals
-- 👯 **Open to collaborate on:** Frontend projects, open-source contributions, UI-focused applications
-- 🤝 **Looking for help with:** React best practices and real-world project architecture
-- 💬 **Ask me about:** Frontend basics, responsive design, GitHub, student tech projects
-- ⚡ **Fun fact:** I prefer clean UI, readable code, and distraction-free workflows
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshith Kotla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotlaharshith0407@gmail.com) 
 
----
-
-## 🧰 Tech Stack
-
-### Frontend
-HTML5 · CSS3 · JavaScript · React · Bootstrap
-
-### Tools & Platforms
-Git · GitHub · VS Code · Netlify · Vercel · MySQL
-
-### Design
-UI/UX fundamentals · Responsive layouts · Clean typography
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harshithkotla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harshithkotla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithkotla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Harshithkotla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 Career Goal
-
-To grow as a **Frontend Web Developer**, contribute to real-world products, and build interfaces that are both **functional and visually polished**.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshithKotla)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kotlaharshith0407@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithkotla&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Harshithkotla&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithkotla&theme=dark&hide_border=true&layout=compact)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Harshithkotla&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
